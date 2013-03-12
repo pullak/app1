@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.pullak.sample"
         version   = "99.999">
-    <name>Sanu</name>
+    <name>Pullak App1</name>
 
     <description>
        Sample by pullak.
