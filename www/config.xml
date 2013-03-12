@@ -13,4 +13,5 @@
 Pullak Mohapatra
     </author>
     <icon src="pullak.png" gap:role="default" />
+    <preference name="load-url-timeout" value="60000" />
 </widget>
